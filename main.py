@@ -2,7 +2,7 @@ import discord
 import asyncio
 from discord.ext import commands
 
-token = 'NzMwNTkxMjgxMzI3MjQzMzA1.XwcTWA.VwOMxyjDou0BBlXTu09xSODUIw4'
+token = 'LOL'
 
 client = commands.Bot(command_prefix = '++')
 client.remove_command('help')
