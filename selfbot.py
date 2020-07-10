@@ -22,9 +22,8 @@ async def on_ready():
 async def dmall(ctx, *, message):
     for user in list(ctx.guild.members):
         try:
-            await asyncio.sleep(0.5)    
             await user.send(message)
-            await ctx.send(f'Sent "{message}" To {user}')
+            print(f"Sent To {user}")
         except:
             pass
 
