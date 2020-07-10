@@ -1,4 +1,4 @@
 # Discord Mass DM Bot
-DM Everyone In A Server
+  - DM Everyone In A Server
 
 # Enjoy From Dropout
